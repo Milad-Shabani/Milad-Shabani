@@ -6,24 +6,24 @@ REM Requires: git, and GitHub CLI (gh) installed + logged in (gh auth login)
 REM
 REM Folder must contain:
 REM   README.md
-REM   assets\banner.png
+REM   banner.png   (same folder, NOT inside a subfolder)
 REM ============================================================
 
 set REPO_NAME=Milad-Shabani
 set "REPO_DESC=Profile README - Milad Shabani, Business Intelligence Engineer"
 
-REM --- adjust this to wherever you put README.md and the assets folder
+REM --- adjust this to wherever you put README.md and banner.png
 cd /d "C:\Users\MILAD\Desktop\Milad-Shabani"
 
 REM --- safety check: don't publish an empty/wrong folder
 if not exist "README.md" (
     echo [ERROR] README.md not found in this folder.
-    echo Put README.md and assets\banner.png here first.
+    echo Put README.md and banner.png here first.
     pause
     exit /b 1
 )
-if not exist "assets\banner.png" (
-    echo [WARNING] assets\banner.png not found - the header image will be broken.
+if not exist "banner.png" (
+    echo [WARNING] banner.png not found in this folder - the header image will be broken.
     echo Press Ctrl+C to abort, or
     pause
 )
@@ -57,6 +57,7 @@ if errorlevel 1 (
 )
 
 REM --- profile-level settings (bio, company, location, website)
+REM     (needs the "user" scope once: gh auth refresh -h github.com -s user)
 gh api -X PATCH /user ^
   -f name="Milad Shabani" ^
   -f company="Freelance" ^
