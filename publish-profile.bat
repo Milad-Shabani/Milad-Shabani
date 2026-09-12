@@ -6,7 +6,7 @@ REM Requires: git, and GitHub CLI (gh) installed + logged in (gh auth login)
 REM
 REM Folder must contain:
 REM   README.md
-REM   assets\banner.svg
+REM   assets\banner.png
 REM ============================================================
 
 set REPO_NAME=Milad-Shabani
@@ -18,12 +18,12 @@ cd /d "C:\Users\MILAD\Desktop\Milad-Shabani"
 REM --- safety check: don't publish an empty/wrong folder
 if not exist "README.md" (
     echo [ERROR] README.md not found in this folder.
-    echo Put README.md and assets\banner.svg here first.
+    echo Put README.md and assets\banner.png here first.
     pause
     exit /b 1
 )
-if not exist "assets\banner.svg" (
-    echo [WARNING] assets\banner.svg not found - the header image will be broken.
+if not exist "assets\banner.png" (
+    echo [WARNING] assets\banner.png not found - the header image will be broken.
     echo Press Ctrl+C to abort, or
     pause
 )
@@ -42,7 +42,7 @@ REM --- remove any leftover remote from a previous attempt
 git remote remove origin 2>nul
 
 git add .
-git commit -m "Add profile README and banner"
+git commit -m "Update profile README and banner"
 git branch -M main
 
 REM --- create the repo if it does not exist yet, otherwise just push to it
