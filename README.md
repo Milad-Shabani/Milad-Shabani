@@ -2,103 +2,149 @@
 
 <img src="banner.png" alt="Milad Shabani - Business Intelligence Engineer" width="100%">
 
-<a href="https://www.linkedin.com/in/milad-shabani97/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="https://www.instagram.com/milad.shabani97/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
-<a href="mailto:milad.shabani6515@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-<a href="https://miladshabani.ir"><img src="https://img.shields.io/badge/Website-E3A64B?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website"></a>
-
-<img src="https://komarev.com/ghpvc/?username=Milad-Shabani&label=Profile%20views&color=0E1A2B&style=flat-square" alt="Profile views">
-<a href="https://github.com/Milad-Shabani?tab=followers"><img src="https://img.shields.io/github/followers/Milad-Shabani?label=Followers&style=flat-square&color=0E1A2B" alt="Followers"></a>
-<img src="https://img.shields.io/badge/Open%20to-remote%20%26%20relocation-2E7D5B?style=flat-square" alt="Open to work">
+<a href="https://www.linkedin.com/in/milad-shabani97/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://www.instagram.com/milad.shabani97/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
+<a href="mailto:milad.shabani6515@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
+<a href="https://miladshabani.ir"><img src="https://img.shields.io/badge/miladshabani.ir-0E1A2B?style=flat-square&logo=googlechrome&logoColor=E3A64B" alt="Website"></a>
+<a href="https://github.com/Milad-Shabani?tab=followers"><img src="https://img.shields.io/github/followers/Milad-Shabani?style=flat-square&color=0E1A2B&labelColor=0E1A2B&logo=github&logoColor=white" alt="Followers"></a>
+<img src="https://komarev.com/ghpvc/?username=Milad-Shabani&label=Views&color=0E1A2B&style=flat-square" alt="Profile views">
 
 </div>
 
-## 👋 About me
+## 🧭 About me
 
-🧠 Business Intelligence Engineer, 4+ years across telecom, pharma, manufacturing and marketplace operations. I build the layer between raw operational data and the decisions people actually make: warehouses that hold up under load, forecasts that answer a real business question, and dashboards a manager can act on in thirty seconds.
+Business Intelligence Engineer, 4+ years across telecom, pharma, manufacturing and marketplace operations. I build the layer between raw operational data and the decisions people actually make: warehouses that hold up under load, forecasts that answer a real business question, and dashboards a manager can act on in thirty seconds.
 
-🎓 M.Sc. in Industrial Engineering, Kharazmi University &nbsp;·&nbsp; 📍 Karaj, Iran &nbsp;·&nbsp; 🌍 open to remote work and relocation
+M.Sc. in Industrial Engineering, Kharazmi University. Based in Karaj, Iran, and open to remote work and relocation.
 
-## ⚡ What I'm doing now
+**Currently**
 
-- 💼 **Freelance BI engineer** for multiple clients: ETL, warehouse design, Power BI dashboards, KPI frameworks
-- 🔋 **Researching** a multi-stage stochastic model for EV battery closed-loop supply chains in GAMS/CPLEX, manuscript in preparation
-- ✍️ **Writing** a Persian reference of data and BI interview questions at [miladshabani.ir](https://miladshabani.ir)
-- 🎯 **Open to** BI and analytics engineering roles abroad, remote contracts, and team training
+- Freelance BI engineer for multiple clients: ETL, warehouse design, Power BI dashboards, KPI frameworks
+- Researching a multi-stage stochastic model for EV battery closed-loop supply chains in GAMS/CPLEX, manuscript in preparation
+- Writing a Persian reference of data and BI interview questions at [miladshabani.ir](https://miladshabani.ir)
 
-## 🏆 Highlights
+## 🏗️ Selected experience
 
-| | |
-| --- | --- |
-| 🏗️ **Asiatech** | Data warehouse serving **500M+ records**, with the ETL and OLAP layers on top |
-| 🤝 **Samanehaye Modiriat** | BI and CRM delivery for **Mapna, Digikala, Hamrah Aval, Saba Battery** |
-| 💊 **EltiamPharm** | C#/SSIS pipeline pulling from the APIs of **15 pharmaceutical distributors** into one warehouse |
-| 💉 **Health Network Malard** | Vaccine demand forecasting and vaccinator scheduling during the COVID-19 campaign |
+<table>
+<tr><td><b>Asiatech</b></td><td>Data warehouse serving <b>500M+ records</b>, with the ETL and OLAP layers on top</td></tr>
+<tr><td><b>Samanehaye Modiriat</b></td><td>BI and CRM delivery for <b>Mapna, Digikala, Hamrah Aval, Saba Battery</b></td></tr>
+<tr><td><b>EltiamPharm</b></td><td>C#/SSIS pipeline pulling from the APIs of <b>15 pharmaceutical distributors</b> into one warehouse</td></tr>
+<tr><td><b>Health Network Malard</b></td><td>Vaccine demand forecasting and vaccinator scheduling during the COVID-19 campaign</td></tr>
+</table>
 
-## 🚀 Featured projects
+## 📂 Featured projects
 
-| Project | What it does |
-| --- | --- |
-| 💊 [**Pharmapulse**](https://github.com/Milad-Shabani/Pharmapulse-supply-chain-intelligence) | Pharmaceutical demand, inventory and working-capital intelligence — LightGBM quantile forecasting, ABC/XYZ segmentation |
-| 🏭 [**S&OP Planning Engine**](https://github.com/Milad-Shabani/Food-manufacturing-sop-planning-engine) | Forecast to feasible production plan for a five-line plant — Holt-Winters, LP, MRP |
-| 📦 [**Resource & Capacity Planning**](https://github.com/Milad-Shabani/Resource-planning-capacity-forecasting) | A marketplace sales forecast turned into a day-by-day, DC-by-DC staffing plan |
-| 🔄 [**User Analytics Pipeline**](https://github.com/Milad-Shabani/User-analytics-data-pipeline) | Incremental event streams into a warehouse and partitioned Parquet fact table, with quality gates |
-| 📊 [**Power BI Analytics**](https://github.com/Milad-Shabani/Powerbi-analytics-online-market) | Dashboards and data models with PBIX files you can open and inspect |
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**[Pharmapulse](https://github.com/Milad-Shabani/Pharmapulse-supply-chain-intelligence)**
+
+Pharmaceutical demand, inventory and working-capital intelligence. LightGBM quantile forecasting with ABC/XYZ segmentation.
+
+</td>
+<td width="50%" valign="top">
+
+**[S&OP Planning Engine](https://github.com/Milad-Shabani/Food-manufacturing-sop-planning-engine)**
+
+Forecast to feasible production plan for a five-line plant. Holt-Winters, linear programming, MRP.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**[Resource & Capacity Planning](https://github.com/Milad-Shabani/Resource-planning-capacity-forecasting)**
+
+A marketplace sales forecast turned into a day-by-day, DC-by-DC staffing and delivery plan.
+
+</td>
+<td width="50%" valign="top">
+
+**[User Analytics Pipeline](https://github.com/Milad-Shabani/User-analytics-data-pipeline)**
+
+Incremental event streams into a warehouse and partitioned Parquet fact table, with quality gates.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**[Vaccination Forecasting](https://github.com/Milad-Shabani/Malard-vaccination-analytics-forecasting)**
+
+Daily vaccine demand across six centers: SARIMA against XGBoost, with backtesting.
+
+</td>
+<td width="50%" valign="top">
+
+**[Power BI Analytics](https://github.com/Milad-Shabani/Powerbi-analytics-online-market)**
+
+Dashboards and data models with PBIX files you can open and inspect.
+
+</td>
+</tr>
+</table>
 
 ## 🧰 Tech stack
 
-**BI & reporting**
+<table>
+<tr>
+<td><b>BI &amp; reporting</b></td>
+<td>
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=000000" alt="Power BI">
+<img src="https://img.shields.io/badge/DAX-F2C811?style=flat-square&logoColor=000000" alt="DAX">
+<img src="https://img.shields.io/badge/Power%20Query-F2C811?style=flat-square&logoColor=000000" alt="Power Query">
+<img src="https://img.shields.io/badge/SSRS-B7472A?style=flat-square" alt="SSRS">
+<img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white" alt="Excel">
+</td>
+</tr>
+<tr>
+<td><b>Data &amp; warehouse</b></td>
+<td>
+<img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" alt="SQL Server">
+<img src="https://img.shields.io/badge/T--SQL-CC2927?style=flat-square" alt="T-SQL">
+<img src="https://img.shields.io/badge/SSIS-CC2927?style=flat-square" alt="SSIS">
+<img src="https://img.shields.io/badge/SSAS%20Tabular-CC2927?style=flat-square" alt="SSAS">
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker">
+</td>
+</tr>
+<tr>
+<td><b>Python &amp; modeling</b></td>
+<td>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
+<img src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="pandas">
+<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy">
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" alt="scikit-learn">
+<img src="https://img.shields.io/badge/LightGBM%20%7C%20XGBoost-2E8B57?style=flat-square" alt="LightGBM and XGBoost">
+<img src="https://img.shields.io/badge/GAMS%20%7C%20CPLEX-1F4E79?style=flat-square" alt="GAMS and CPLEX">
+</td>
+</tr>
+<tr>
+<td><b>Enterprise &amp; process</b></td>
+<td>
+<img src="https://img.shields.io/badge/Dynamics%20365-002050?style=flat-square&logo=dynamics365&logoColor=white" alt="Dynamics 365">
+<img src="https://img.shields.io/badge/Power%20Platform-742774?style=flat-square&logo=powerautomate&logoColor=white" alt="Power Platform">
+<img src="https://img.shields.io/badge/BPMN%20%7C%20UML-5C2D91?style=flat-square" alt="BPMN and UML">
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git">
+<img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white" alt="Jira">
+</td>
+</tr>
+</table>
 
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![DAX](https://img.shields.io/badge/DAX-F2C811?style=for-the-badge&logoColor=black)
-![SSRS](https://img.shields.io/badge/SSRS-B7472A?style=for-the-badge&logo=microsoft&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
-
-**Data & warehouse**
-
-![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-![SSIS](https://img.shields.io/badge/SSIS-CC2927?style=for-the-badge&logo=microsoft&logoColor=white)
-![SSAS](https://img.shields.io/badge/SSAS%20Tabular-CC2927?style=for-the-badge&logo=microsoft&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-
-**Python & modeling**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![LightGBM](https://img.shields.io/badge/LightGBM%20%2F%20XGBoost-2E8B57?style=for-the-badge)
-![GAMS](https://img.shields.io/badge/GAMS%20%2F%20CPLEX-1F4E79?style=for-the-badge)
-
-**Enterprise & process**
-
-![Dynamics 365](https://img.shields.io/badge/Dynamics%20365-002050?style=for-the-badge&logo=dynamics365&logoColor=white)
-![Power Platform](https://img.shields.io/badge/Power%20Platform-742774?style=for-the-badge&logo=powerautomate&logoColor=white)
-![BPMN](https://img.shields.io/badge/BPMN%20%2F%20UML-5C2D91?style=for-the-badge)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
-
-## 📈 GitHub in numbers
+## 📊 Activity
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Milad-Shabani&show_icons=true&hide_border=true&bg_color=0E1A2B&title_color=E3A64B&text_color=C6D4E4&icon_color=3C6690" height="160" alt="GitHub stats">
-<img src="https://streak-stats.demolab.com?user=Milad-Shabani&hide_border=true&background=0E1A2B&stroke=1F3A5C&ring=E3A64B&fire=E3A64B&currStreakLabel=E3A64B&sideLabels=C6D4E4&currStreakNum=C6D4E4&sideNums=C6D4E4&dates=8FA3BA" height="160" alt="Streak">
+<img src="https://streak-stats.demolab.com?user=Milad-Shabani&hide_border=true&background=FFFFFF&stroke=E4E8EC&ring=E3A64B&fire=E3A64B&currStreakLabel=0E1A2B&sideLabels=4A5A6B&currStreakNum=0E1A2B&sideNums=0E1A2B&dates=8FA3BA" height="170" alt="Contribution streak">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Milad-Shabani&layout=compact&hide_border=true&bg_color=0E1A2B&title_color=E3A64B&text_color=C6D4E4" height="150" alt="Top languages">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Milad-Shabani&theme=nord&no-frame=true&no-bg=true&column=6&margin-w=8" alt="Trophies">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Milad-Shabani&bg_color=0E1A2B&color=E3A64B&line=3C6690&point=F2F5F9&hide_border=true&area=true" width="98%" alt="Activity graph">
+<img src="https://raw.githubusercontent.com/Milad-Shabani/Milad-Shabani/output/snake.svg" width="98%" alt="Contribution graph">
 
 </div>
 
-## 📫 Get in touch
+## 🤝 Let's work together
 
-Hiring for a BI or analytics engineering role, need a warehouse and reporting layer built, or want Power BI training for your team?
+Open to collaboration: BI and analytics engineering roles, freelance warehouse and dashboard builds, and Power BI training for teams.
 
-📧 **milad.shabani6515@gmail.com** &nbsp;·&nbsp; 💼 [LinkedIn](https://www.linkedin.com/in/milad-shabani97/) &nbsp;·&nbsp; 🌐 [miladshabani.ir](https://miladshabani.ir) &nbsp;·&nbsp; 📸 [Instagram](https://www.instagram.com/milad.shabani97/)
+**milad.shabani6515@gmail.com** &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/milad-shabani97/) &nbsp;·&nbsp; [miladshabani.ir](https://miladshabani.ir) &nbsp;·&nbsp; [Instagram](https://www.instagram.com/milad.shabani97/)
 
-<div align="center"><i>I work in Persian and English. 🇮🇷 🇬🇧</i></div>
+<div align="center"><sub>I work in Persian and English.</sub></div>

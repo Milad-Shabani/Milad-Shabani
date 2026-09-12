@@ -28,6 +28,38 @@ if not exist "banner.png" (
     pause
 )
 
+REM --- create the snake animation workflow (only once)
+if not exist ".github\workflows" mkdir ".github\workflows"
+if not exist ".github\workflows\snake.yml" (
+  echo name: Contribution snake> ".github\workflows\snake.yml"
+  echo on:>> ".github\workflows\snake.yml"
+  echo   schedule:>> ".github\workflows\snake.yml"
+  echo     - cron: "0 2 * * *">> ".github\workflows\snake.yml"
+  echo   workflow_dispatch:>> ".github\workflows\snake.yml"
+  echo   push:>> ".github\workflows\snake.yml"
+  echo     branches:>> ".github\workflows\snake.yml"
+  echo       - main>> ".github\workflows\snake.yml"
+  echo permissions:>> ".github\workflows\snake.yml"
+  echo   contents: write>> ".github\workflows\snake.yml"
+  echo jobs:>> ".github\workflows\snake.yml"
+  echo   build:>> ".github\workflows\snake.yml"
+  echo     runs-on: ubuntu-latest>> ".github\workflows\snake.yml"
+  echo     steps:>> ".github\workflows\snake.yml"
+  echo       - name: Generate snake>> ".github\workflows\snake.yml"
+  echo         uses: Platane/snk@v3>> ".github\workflows\snake.yml"
+  echo         with:>> ".github\workflows\snake.yml"
+  echo           github_user_name: Milad-Shabani>> ".github\workflows\snake.yml"
+  echo           outputs: dist/snake.svg>> ".github\workflows\snake.yml"
+  echo       - name: Publish to output branch>> ".github\workflows\snake.yml"
+  echo         uses: crazy-max/ghaction-github-pages@v4>> ".github\workflows\snake.yml"
+  echo         with:>> ".github\workflows\snake.yml"
+  echo           target_branch: output>> ".github\workflows\snake.yml"
+  echo           build_dir: dist>> ".github\workflows\snake.yml"
+  echo         env:>> ".github\workflows\snake.yml"
+  echo           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}>> ".github\workflows\snake.yml"
+  echo Created .github\workflows\snake.yml
+)
+
 REM --- set your git identity (safe to run every time)
 git config --global user.name "Milad Shabani"
 git config --global user.email "MILAD.SHABANI6515@GMAIL.COM"
@@ -42,7 +74,7 @@ REM --- remove any leftover remote from a previous attempt
 git remote remove origin 2>nul
 
 git add .
-git commit -m "Update profile README and banner"
+git commit -m "Update profile README, banner and snake workflow"
 git branch -M main
 
 REM --- create the repo if it does not exist yet, otherwise just push to it
@@ -68,6 +100,12 @@ gh api -X PATCH /user ^
 echo.
 echo Done. Your profile should now show the README at:
 echo https://github.com/Milad-Shabani
+echo.
+echo Notes:
+echo   - The snake animation appears about a minute after the Actions run finishes.
+echo   - If the workflow fails: repo Settings -^> Actions -^> General -^> Workflow permissions
+echo     -^> set "Read and write permissions".
+echo   - Profile bio needs one extra scope once:  gh auth refresh -h github.com -s user
 echo.
 echo Next step (manual, 1 minute):
 echo   Profile page -^> Customize your pins -^> pin these 6 repos in this order:
