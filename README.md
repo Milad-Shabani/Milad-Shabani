@@ -6,6 +6,7 @@
 <a href="https://www.instagram.com/milad.shabani97/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
 <a href="mailto:milad.shabani6515@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
 <a href="https://miladshabani.ir"><img src="https://img.shields.io/badge/miladshabani.ir-0E1A2B?style=flat-square&logo=googlechrome&logoColor=E3A64B" alt="Website"></a>
+<a href="https://miladshabani.ir/data-interview/"><img src="https://img.shields.io/badge/Data%20interview%20Q%26A-E3A64B?style=flat-square&logo=readthedocs&logoColor=white" alt="Data interview question bank"></a>
 <a href="https://github.com/Milad-Shabani?tab=followers"><img src="https://img.shields.io/github/followers/Milad-Shabani?style=flat-square&color=0E1A2B&labelColor=0E1A2B&logo=github&logoColor=white" alt="Followers"></a>
 <img src="https://komarev.com/ghpvc/?username=Milad-Shabani&label=Views&color=0E1A2B&style=flat-square" alt="Profile views">
 
@@ -21,7 +22,7 @@ M.Sc. in Industrial Engineering, Kharazmi University. Based in Karaj, Iran, and 
 
 - Freelance BI engineer for multiple clients: ETL, warehouse design, Power BI dashboards, KPI frameworks
 - Researching a multi-stage stochastic model for EV battery closed-loop supply chains in GAMS/CPLEX, manuscript in preparation
-- Writing a Persian reference of data and BI interview questions at [miladshabani.ir](https://miladshabani.ir)
+- Writing [a Persian question bank for data interviews](https://miladshabani.ir/data-interview/), free and growing
 
 ## 🏗️ Selected experience
 
@@ -137,7 +138,7 @@ Dashboards and data models with PBIX files you can open and inspect.
 
 <img src="https://streak-stats.demolab.com?user=Milad-Shabani&hide_border=true&background=FFFFFF&stroke=E4E8EC&ring=E3A64B&fire=E3A64B&currStreakLabel=0E1A2B&sideLabels=4A5A6B&currStreakNum=0E1A2B&sideNums=0E1A2B&dates=8FA3BA" height="170" alt="Contribution streak">
 
-<img src="https://raw.githubusercontent.com/Milad-Shabani/Milad-Shabani/output/snake.svg" width="98%" alt="Contribution graph">
+<img src="https://raw.githubusercontent.com/Milad-Shabani/Milad-Shabani/output/snake.svg?v=2" width="98%" alt="Contribution graph">
 
 </div>
 
@@ -145,6 +146,10 @@ Dashboards and data models with PBIX files you can open and inspect.
 
 Open to collaboration: BI and analytics engineering roles, freelance warehouse and dashboard builds, and Power BI training for teams.
 
-**milad.shabani6515@gmail.com** &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/milad-shabani97/) &nbsp;·&nbsp; [miladshabani.ir](https://miladshabani.ir) &nbsp;·&nbsp; [Instagram](https://www.instagram.com/milad.shabani97/)
+<a href="mailto:milad.shabani6515@gmail.com"><img src="https://img.shields.io/badge/Email-0E1A2B?style=flat-square&logo=gmail&logoColor=E3A64B" alt="Email"></a>
+<a href="https://www.linkedin.com/in/milad-shabani97/"><img src="https://img.shields.io/badge/LinkedIn-0E1A2B?style=flat-square&logo=linkedin&logoColor=E3A64B" alt="LinkedIn"></a>
+<a href="https://miladshabani.ir"><img src="https://img.shields.io/badge/Website-0E1A2B?style=flat-square&logo=googlechrome&logoColor=E3A64B" alt="Website"></a>
+<a href="https://miladshabani.ir/data-interview/"><img src="https://img.shields.io/badge/Data%20interview%20questions-0E1A2B?style=flat-square&logo=readthedocs&logoColor=E3A64B" alt="Data interview question bank"></a>
+<a href="https://www.instagram.com/milad.shabani97/"><img src="https://img.shields.io/badge/Instagram-0E1A2B?style=flat-square&logo=instagram&logoColor=E3A64B" alt="Instagram"></a>
 
 <div align="center"><sub>I work in Persian and English.</sub></div>

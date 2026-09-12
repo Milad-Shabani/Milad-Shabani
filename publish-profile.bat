@@ -102,6 +102,8 @@ echo Done. Your profile should now show the README at:
 echo https://github.com/Milad-Shabani
 echo.
 echo Notes:
+echo   - If the snake image still shows broken, open the Actions tab and check the run,
+echo     then hard-refresh the profile page (Ctrl+Shift+R) - GitHub caches images.
 echo   - The snake animation appears about a minute after the Actions run finishes.
 echo   - If the workflow fails: repo Settings -^> Actions -^> General -^> Workflow permissions
 echo     -^> set "Read and write permissions".
