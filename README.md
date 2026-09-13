@@ -136,7 +136,7 @@ Dashboards and data models with PBIX files you can open and inspect.
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=Milad-Shabani&hide_border=true&background=FFFFFF&stroke=E4E8EC&ring=E3A64B&fire=E3A64B&currStreakLabel=0E1A2B&sideLabels=4A5A6B&currStreakNum=0E1A2B&sideNums=0E1A2B&dates=8FA3BA" height="170" alt="Contribution streak">
+<img src="./profile/streak.svg" height="170" alt="Contribution streak">
 
 <img src="https://raw.githubusercontent.com/Milad-Shabani/Milad-Shabani/output/snake.svg?v=2" width="98%" alt="Contribution graph">
 
