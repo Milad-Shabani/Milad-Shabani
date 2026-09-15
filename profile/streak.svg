@@ -56,6 +56,7 @@
                     </text>
                 </g>
 
+              
                 <!-- Ring around number -->
                 <g mask='url(#mask_out_ring_behind_fire)'>
                     <circle cx='247.5' cy='71' r='40' fill='none' stroke='#e3a64b' stroke-width='5' style='opacity: 1; opacity: 1;'></circle>
