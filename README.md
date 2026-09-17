@@ -16,6 +16,8 @@
 
 Business Intelligence Engineer, 4+ years across telecom, pharma, manufacturing and marketplace operations. I build the layer between raw operational data and the decisions people actually make: warehouses that hold up under load, forecasts that answer a real business question, and dashboards a manager can act on in thirty seconds.
 
+Every project below ships the same way a real deliverable does: a results table with baselines, a stated limitation, and an artifact someone can actually open.
+
 M.Sc. in Industrial Engineering, Kharazmi University. Based in Karaj, Iran, and open to remote work and relocation.
 
 **Currently**
@@ -40,54 +42,54 @@ M.Sc. in Industrial Engineering, Kharazmi University. Based in Karaj, Iran, and 
 <tr>
 <td width="50%" valign="top">
 
-**[Iran Population & Labour Market](https://github.com/Milad-Shabani/iran-population-labour-dashboard)** · [live](https://milad-shabani.github.io/iran-population-labour-dashboard/)
+**[Delivery Marketplace Analytics Engine](https://github.com/Milad-Shabani/delivery-marketplace-analytics-engine)**
 
-A data story about a statistical illusion: unemployment nearly halved while the share of people actually working did not move. Bilingual EN/FA dashboard with a population model you can argue with.
-
-</td>
-<td width="50%" valign="top">
-
-**[Global EV Market Pulse](https://github.com/Milad-Shabani/Global-EV-market-pulse)**
-
-World EV production, trade, battery supply chain and the 2035 outlook, built chapter by chapter on the IEA Global EV Outlook 2026. Python-generated Excel workbook plus a D3 world map.
+The full stack for a food-delivery marketplace: contribution-margin P&L, cohorts and LTV:CAC, a 12-month forecast validated on rolling origins, and a promotion budget reallocated with SciPy.
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 **[MarketCo Marketplace Intelligence](https://github.com/Milad-Shabani/marketco-marketplace-intelligence)**
 
-780K rows of synthetic marketplace and Dynamics 365-style CRM data. LightGBM P50/P95 forecasting that treats mega-sale spikes as a feature, plus an RFM churn model.
-
-</td>
-<td width="50%" valign="top">
-
-**[Pharmapulse](https://github.com/Milad-Shabani/Pharmapulse-supply-chain-intelligence)**
-
-Pharmaceutical demand, inventory and working-capital intelligence. LightGBM quantile forecasting with ABC/XYZ segmentation.
+780K rows of marketplace and Dynamics 365-style CRM data. LightGBM P50/P95 forecasting that treats mega-sale spikes as a feature, plus an RFM churn model on a time-based split.
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-**[S&OP Planning Engine](https://github.com/Milad-Shabani/Food-manufacturing-sop-planning-engine)**
+**[HR Analytics Dashboard](https://github.com/Milad-Shabani/hr-analytics-dashboard)**
 
-Forecast to feasible production plan for a five-line plant. Holt-Winters, linear programming, MRP.
+People analytics end to end: a formula-driven Excel workbook as the source of truth, a 12-month workforce plan, and an explainable attrition-risk score an HRBP could defend in a review.
 
 </td>
 <td width="50%" valign="top">
 
-**[Power BI Analytics](https://github.com/Milad-Shabani/Powerbi-analytics-online-market)**
+**[Global Gold Market Pulse](https://github.com/Milad-Shabani/global-gold-market-pulse-2026)**
 
-Dashboards and data models with PBIX files you can open and inspect.
+Real World Gold Council and IMF IFS data on official reserves, production and 2025's record demand, reconciled across sources and shipped as both an Excel workbook and a dashboard.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**[Iran Population & Labour Market](https://github.com/Milad-Shabani/iran-population-labour-dashboard)** · [live](https://milad-shabani.github.io/iran-population-labour-dashboard/)
+
+A data story about a statistical illusion: unemployment nearly halved while the share of people actually working did not move. Bilingual EN/FA, with a population model you can argue with.
+
+</td>
+<td width="50%" valign="top">
+
+**[Battery CRM + S&OP Engine](https://github.com/Milad-Shabani/battery-crm-sop-planning-engine)**
+
+A four-line battery plant planned end to end: CRM pipeline folded into the demand forecast, capacity solved as an LP against machine and labour hours, then MRP through a real BOM.
 
 </td>
 </tr>
 </table>
 
-Also here: [Resource & Capacity Planning](https://github.com/Milad-Shabani/Resource-planning-capacity-forecasting) (sales forecast to a DC-by-DC staffing plan) · [User Analytics Pipeline](https://github.com/Milad-Shabani/User-analytics-data-pipeline) (incremental event streams into a warehouse and Parquet fact table) · [Vaccination Forecasting](https://github.com/Milad-Shabani/Malard-vaccination-analytics-forecasting) (SARIMA against XGBoost, with backtesting)
+Also here: [Pharmapulse](https://github.com/Milad-Shabani/Pharmapulse-supply-chain-intelligence) (pharmaceutical demand and working capital) · [Global EV Market Pulse](https://github.com/Milad-Shabani/Global-EV-market-pulse) (IEA outlook, D3 world map) · [Food S&OP Engine](https://github.com/Milad-Shabani/Food-manufacturing-sop-planning-engine) (Holt-Winters, LP, MRP) · [Resource & Capacity Planning](https://github.com/Milad-Shabani/Resource-planning-capacity-forecasting) · [User Analytics Pipeline](https://github.com/Milad-Shabani/User-analytics-data-pipeline) · [Malard VaxForecast](https://github.com/Milad-Shabani/malard-vax-forecast) (SARIMA against XGBoost) · [Power BI dashboards](https://github.com/Milad-Shabani/Powerbi-analytics-online-market)
 
 ## 🧰 Tech stack
 
@@ -120,6 +122,8 @@ Also here: [Resource & Capacity Planning](https://github.com/Milad-Shabani/Resou
 <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy">
 <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" alt="scikit-learn">
 <img src="https://img.shields.io/badge/LightGBM%20%7C%20XGBoost-2E8B57?style=flat-square" alt="LightGBM and XGBoost">
+<img src="https://img.shields.io/badge/statsmodels-8B0000?style=flat-square" alt="statsmodels">
+<img src="https://img.shields.io/badge/SciPy-8CAAE6?style=flat-square&logo=scipy&logoColor=white" alt="SciPy">
 <img src="https://img.shields.io/badge/GAMS%20%7C%20CPLEX-1F4E79?style=flat-square" alt="GAMS and CPLEX">
 </td>
 </tr>
@@ -132,6 +136,8 @@ Also here: [Resource & Capacity Planning](https://github.com/Milad-Shabani/Resou
 <img src="https://img.shields.io/badge/HTML%20%7C%20CSS%20%7C%20JS-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML, CSS, JavaScript">
 <img src="https://img.shields.io/badge/openpyxl-217346?style=flat-square&logo=microsoftexcel&logoColor=white" alt="openpyxl">
 <img src="https://img.shields.io/badge/GitHub%20Pages-222222?style=flat-square&logo=githubpages&logoColor=white" alt="GitHub Pages">
+<img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions">
+<img src="https://img.shields.io/badge/pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white" alt="pytest">
 </td>
 </tr>
 <tr>
@@ -156,7 +162,7 @@ Also here: [Resource & Capacity Planning](https://github.com/Milad-Shabani/Resou
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=Milad-Shabani&hide_border=true&background=FFFFFF&stroke=E4E8EC&ring=E3A64B&fire=E3A64B&currStreakLabel=0E1A2B&sideLabels=4A5A6B&currStreakNum=0E1A2B&sideNums=0E1A2B&dates=8FA3BA" height="170" alt="Contribution streak">
+<img src="./profile/streak.svg" height="170" alt="Contribution streak">
 
 <img src="https://raw.githubusercontent.com/Milad-Shabani/Milad-Shabani/output/snake.svg?v=2" width="98%" alt="Contribution graph">
 
