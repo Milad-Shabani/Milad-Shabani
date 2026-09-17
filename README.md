@@ -155,7 +155,7 @@ Also here: [Pharmapulse](https://github.com/Milad-Shabani/Pharmapulse-supply-cha
 ## 📚 Research & writing
 
 - M.Sc. thesis: a sustainable EV battery supply chain under uncertainty, with a data-mining approach to scenario generation
-- Manuscript in preparation: multi-stage stochastic programming for a circular-economy battery closed-loop supply chain, solved in GAMS/CPLEX
+- Manuscript in preparation: stochastic programming for a circular-economy battery closed-loop supply chain, solved in GAMS/CPLEX
 - [Persian question bank for data interviews](https://miladshabani.ir/data-interview/), plus teaching and Power BI training for teams
 
 ## 📊 Activity
