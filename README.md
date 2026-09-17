@@ -21,6 +21,7 @@ M.Sc. in Industrial Engineering, Kharazmi University. Based in Karaj, Iran, and 
 **Currently**
 
 - Freelance BI engineer for multiple clients: ETL, warehouse design, Power BI dashboards, KPI frameworks
+- Building open analytics projects across pharma, marketplace, energy and public-health data, each one shipping a working dashboard
 - Researching a multi-stage stochastic model for EV battery closed-loop supply chains in GAMS/CPLEX, manuscript in preparation
 - Writing [a Persian question bank for data interviews](https://miladshabani.ir/data-interview/), free and growing
 
@@ -39,41 +40,41 @@ M.Sc. in Industrial Engineering, Kharazmi University. Based in Karaj, Iran, and 
 <tr>
 <td width="50%" valign="top">
 
+**[Iran Population & Labour Market](https://github.com/Milad-Shabani/iran-population-labour-dashboard)** · [live](https://milad-shabani.github.io/iran-population-labour-dashboard/)
+
+A data story about a statistical illusion: unemployment nearly halved while the share of people actually working did not move. Bilingual EN/FA dashboard with a population model you can argue with.
+
+</td>
+<td width="50%" valign="top">
+
+**[Global EV Market Pulse](https://github.com/Milad-Shabani/Global-EV-market-pulse)**
+
+World EV production, trade, battery supply chain and the 2035 outlook, built chapter by chapter on the IEA Global EV Outlook 2026. Python-generated Excel workbook plus a D3 world map.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**[MarketCo Marketplace Intelligence](https://github.com/Milad-Shabani/marketco-marketplace-intelligence)**
+
+780K rows of synthetic marketplace and Dynamics 365-style CRM data. LightGBM P50/P95 forecasting that treats mega-sale spikes as a feature, plus an RFM churn model.
+
+</td>
+<td width="50%" valign="top">
+
 **[Pharmapulse](https://github.com/Milad-Shabani/Pharmapulse-supply-chain-intelligence)**
 
 Pharmaceutical demand, inventory and working-capital intelligence. LightGBM quantile forecasting with ABC/XYZ segmentation.
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 **[S&OP Planning Engine](https://github.com/Milad-Shabani/Food-manufacturing-sop-planning-engine)**
 
 Forecast to feasible production plan for a five-line plant. Holt-Winters, linear programming, MRP.
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-**[Resource & Capacity Planning](https://github.com/Milad-Shabani/Resource-planning-capacity-forecasting)**
-
-A marketplace sales forecast turned into a day-by-day, DC-by-DC staffing and delivery plan.
-
-</td>
-<td width="50%" valign="top">
-
-**[User Analytics Pipeline](https://github.com/Milad-Shabani/User-analytics-data-pipeline)**
-
-Incremental event streams into a warehouse and partitioned Parquet fact table, with quality gates.
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-**[Vaccination Forecasting](https://github.com/Milad-Shabani/Malard-vaccination-analytics-forecasting)**
-
-Daily vaccine demand across six centers: SARIMA against XGBoost, with backtesting.
 
 </td>
 <td width="50%" valign="top">
@@ -85,6 +86,8 @@ Dashboards and data models with PBIX files you can open and inspect.
 </td>
 </tr>
 </table>
+
+Also here: [Resource & Capacity Planning](https://github.com/Milad-Shabani/Resource-planning-capacity-forecasting) (sales forecast to a DC-by-DC staffing plan) · [User Analytics Pipeline](https://github.com/Milad-Shabani/User-analytics-data-pipeline) (incremental event streams into a warehouse and Parquet fact table) · [Vaccination Forecasting](https://github.com/Milad-Shabani/Malard-vaccination-analytics-forecasting) (SARIMA against XGBoost, with backtesting)
 
 ## 🧰 Tech stack
 
@@ -121,6 +124,17 @@ Dashboards and data models with PBIX files you can open and inspect.
 </td>
 </tr>
 <tr>
+<td><b>Dashboards &amp; web</b></td>
+<td>
+<img src="https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white" alt="Plotly">
+<img src="https://img.shields.io/badge/Chart.js-FF6384?style=flat-square&logo=chartdotjs&logoColor=white" alt="Chart.js">
+<img src="https://img.shields.io/badge/D3-F9A03C?style=flat-square&logo=d3dotjs&logoColor=white" alt="D3">
+<img src="https://img.shields.io/badge/HTML%20%7C%20CSS%20%7C%20JS-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML, CSS, JavaScript">
+<img src="https://img.shields.io/badge/openpyxl-217346?style=flat-square&logo=microsoftexcel&logoColor=white" alt="openpyxl">
+<img src="https://img.shields.io/badge/GitHub%20Pages-222222?style=flat-square&logo=githubpages&logoColor=white" alt="GitHub Pages">
+</td>
+</tr>
+<tr>
 <td><b>Enterprise &amp; process</b></td>
 <td>
 <img src="https://img.shields.io/badge/Dynamics%20365-002050?style=flat-square&logo=dynamics365&logoColor=white" alt="Dynamics 365">
@@ -132,11 +146,17 @@ Dashboards and data models with PBIX files you can open and inspect.
 </tr>
 </table>
 
+## 📚 Research & writing
+
+- M.Sc. thesis: a sustainable EV battery supply chain under uncertainty, with a data-mining approach to scenario generation
+- Manuscript in preparation: multi-stage stochastic programming for a circular-economy battery closed-loop supply chain, solved in GAMS/CPLEX
+- [Persian question bank for data interviews](https://miladshabani.ir/data-interview/), plus teaching and Power BI training for teams
+
 ## 📊 Activity
 
 <div align="center">
 
-<img src="./profile/streak.svg" height="170" alt="Contribution streak">
+<img src="https://streak-stats.demolab.com?user=Milad-Shabani&hide_border=true&background=FFFFFF&stroke=E4E8EC&ring=E3A64B&fire=E3A64B&currStreakLabel=0E1A2B&sideLabels=4A5A6B&currStreakNum=0E1A2B&sideNums=0E1A2B&dates=8FA3BA" height="170" alt="Contribution streak">
 
 <img src="https://raw.githubusercontent.com/Milad-Shabani/Milad-Shabani/output/snake.svg?v=2" width="98%" alt="Contribution graph">
 
