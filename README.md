@@ -49,7 +49,7 @@ The full stack for a food-delivery marketplace: contribution-margin P&L, cohorts
 </td>
 <td width="50%" valign="top">
 
-**[MarketCo Marketplace Intelligence](https://github.com/Milad-Shabani/marketco-marketplace-intelligence)**
+**[Supermarket Marketplace Intelligence](https://github.com/Milad-Shabani/Supermarket Marketplace-marketplace-intelligence)**
 
 780K rows of marketplace and Dynamics 365-style CRM data. LightGBM P50/P95 forecasting that treats mega-sale spikes as a feature, plus an RFM churn model on a time-based split.
 
