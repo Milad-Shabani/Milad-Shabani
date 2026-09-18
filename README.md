@@ -14,24 +14,25 @@
 
 ## 🧭 About me
 
-Business Intelligence Engineer, 4+ years across telecom, pharma, manufacturing and marketplace operations. I build the layer between raw operational data and the decisions people actually make: warehouses that hold up under load, forecasts that answer a real business question, and dashboards a manager can act on in thirty seconds.
+I turn complex business problems into systems, data and intelligence. From information systems and
+process analysis, through data engineering, to business intelligence and AI — I build solutions that
+make complexity understandable, data usable and decisions dependable.
 
-Every project below ships the same way a real deliverable does: a results table with baselines, a stated limitation, and an artifact someone can actually open.
-
-M.Sc. in Industrial Engineering, Kharazmi University. Based in Karaj, Iran, and open to remote work and relocation.
+Business Intelligence Engineer, 4+ years across telecom, pharmaceutical distribution, manufacturing
+and marketplace operations. M.Sc. in Industrial Engineering, Kharazmi University. Based in Karaj,
+Iran, and open to remote work and relocation.
 
 **Currently**
 
-- Freelance BI engineer for multiple clients: ETL, warehouse design, Power BI dashboards, KPI frameworks
-- Building open analytics projects across pharma, marketplace, energy and public-health data, each one shipping a working dashboard
-- Researching a multi-stage stochastic model for EV battery closed-loop supply chains in GAMS/CPLEX, manuscript in preparation
+- Freelance BI engineer: ETL, warehouse design, Power BI dashboards, KPI frameworks
+- Publishing open analytics projects across finance, banking, retail, pharma, energy and public data
 - Writing [a Persian question bank for data interviews](https://miladshabani.ir/data-interview/), free and growing
 
 ## 🏗️ Selected experience
 
 <table>
 <tr><td><b>Asiatech</b></td><td>Data warehouse serving <b>500M+ records</b>, with the ETL and OLAP layers on top</td></tr>
-<tr><td><b>Samanehaye Modiriat</b></td><td>BI and CRM delivery for <b>Mapna, Digikala, Hamrah Aval, Saba Battery</b></td></tr>
+<tr><td><b>Samanehaye Modiriat</b></td><td>BI and CRM delivery for <b>MAPNA, Digikala, MCI, Saba Battery</b></td></tr>
 <tr><td><b>EltiamPharm</b></td><td>C#/SSIS pipeline pulling from the APIs of <b>15 pharmaceutical distributors</b> into one warehouse</td></tr>
 <tr><td><b>Health Network Malard</b></td><td>Vaccine demand forecasting and vaccinator scheduling during the COVID-19 campaign</td></tr>
 </table>
@@ -42,54 +43,60 @@ M.Sc. in Industrial Engineering, Kharazmi University. Based in Karaj, Iran, and 
 <tr>
 <td width="50%" valign="top">
 
-**[Delivery Marketplace Analytics Engine](https://github.com/Milad-Shabani/delivery-marketplace-analytics-engine)**
+**[Delivery Marketplace: Growth or Profit?](https://github.com/Milad-Shabani/delivery-marketplace-analytics-engine)**
 
-The full stack for a food-delivery marketplace: contribution-margin P&L, cohorts and LTV:CAC, a 12-month forecast validated on rolling origins, and a promotion budget reallocated with SciPy.
-
-</td>
-<td width="50%" valign="top">
-
-**[Supermarket Marketplace Intelligence](https://github.com/Milad-Shabani/Supermarket Marketplace-marketplace-intelligence)**
-
-780K rows of marketplace and Dynamics 365-style CRM data. LightGBM P50/P95 forecasting that treats mega-sale spikes as a feature, plus an RFM churn model on a time-based split.
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-**[HR Analytics Dashboard](https://github.com/Milad-Shabani/hr-analytics-dashboard)**
-
-People analytics end to end: a formula-driven Excel workbook as the source of truth, a 12-month workforce plan, and an explainable attrition-risk score an HRBP could defend in a review.
+Orders growing 65% a year on a contribution margin under 7%. Per-city P&L, cohorts, a 12-month
+forecast and a constrained reallocation of the promotion budget.
 
 </td>
 <td width="50%" valign="top">
 
-**[Global Gold Market Pulse](https://github.com/Milad-Shabani/global-gold-market-pulse-2026)**
+**[People Analytics: Who Is About to Resign?](https://github.com/Milad-Shabani/hr-analytics-dashboard)**
 
-Real World Gold Council and IMF IFS data on official reserves, production and 2025's record demand, reconciled across sources and shipped as both an Excel workbook and a dashboard.
+An attrition-risk score with published weights, a live-formula Excel workbook as the source of
+truth, and a 12-month hiring plan per department.
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-**[Iran Population & Labour Market](https://github.com/Milad-Shabani/iran-population-labour-dashboard)** · [live](https://milad-shabani.github.io/iran-population-labour-dashboard/)
+**[Finance & FP&A: Which Budget Line Is Slipping?](https://github.com/Milad-Shabani/finance-analytics-dashboard)**
 
-A data story about a statistical illusion: unemployment nearly halved while the share of people actually working did not move. Bilingual EN/FA, with a population model you can argue with.
+A fully tied three-statement model that balances to the penny, a 12-month revenue, EBITDA and
+cash-flow forecast, and an explainable budget-overrun risk model.
 
 </td>
 <td width="50%" valign="top">
 
-**[Battery CRM + S&OP Engine](https://github.com/Milad-Shabani/battery-crm-sop-planning-engine)**
+**[Retail Banking: Which Transaction Is Suspicious?](https://github.com/Milad-Shabani/retail-banking-analytics)**
 
-A four-line battery plant planned end to end: CRM pipeline folded into the demand forecast, capacity solved as an LP against machine and labour hours, then MRP through a real BOM.
+Customer and transaction analytics with a suspicious-transaction model, and a dashboard that puts
+risk, customer behaviour and portfolio health side by side.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**[Global Gold: Who Is Quietly Buying?](https://github.com/Milad-Shabani/global-gold-market-pulse-2026)**
+
+Real World Gold Council and IMF data on official reserves, production and demand — 26 years of
+reserve history, reconciled across sources with different methodologies.
+
+</td>
+<td width="50%" valign="top">
+
+**[Unemployment Halved. Employment Didn't.](https://github.com/Milad-Shabani/iran-population-labour-dashboard)** · [live](https://milad-shabani.github.io/iran-population-labour-dashboard/)
+
+Official unemployment fell from 12.4% to 7.5% while participation dropped 2.6 points. A bilingual
+data story with a model whose assumptions you can change.
 
 </td>
 </tr>
 </table>
 
-Also here: [Pharmapulse](https://github.com/Milad-Shabani/Pharmapulse-supply-chain-intelligence) (pharmaceutical demand and working capital) · [Global EV Market Pulse](https://github.com/Milad-Shabani/Global-EV-market-pulse) (IEA outlook, D3 world map) · [Food S&OP Engine](https://github.com/Milad-Shabani/Food-manufacturing-sop-planning-engine) (Holt-Winters, LP, MRP) · [Resource & Capacity Planning](https://github.com/Milad-Shabani/Resource-planning-capacity-forecasting) · [User Analytics Pipeline](https://github.com/Milad-Shabani/User-analytics-data-pipeline) · [Malard VaxForecast](https://github.com/Milad-Shabani/malard-vax-forecast) (SARIMA against XGBoost) · [Power BI dashboards](https://github.com/Milad-Shabani/Powerbi-analytics-online-market)
+Also here: [Supermarket Marketplace](https://github.com/Milad-Shabani/marketco-marketplace-intelligence) (780K rows, LightGBM quantile forecasting, RFM churn) · [Battery Plant S&OP](https://github.com/Milad-Shabani/battery-crm-sop-planning-engine) (CRM pipeline into the forecast, capacity as an LP, MRP) · [Pharma Supply Chain](https://github.com/Milad-Shabani/Pharmapulse-supply-chain-intelligence) (ABC/XYZ, quantile reorder points, cash conversion cycle) · [Global EV Market](https://github.com/Milad-Shabani/Global-EV-market-pulse) · [Food Manufacturing S&OP](https://github.com/Milad-Shabani/Food-manufacturing-sop-planning-engine) · [Resource & Capacity Planning](https://github.com/Milad-Shabani/Resource-planning-capacity-forecasting) · [User Analytics Pipeline](https://github.com/Milad-Shabani/User-analytics-data-pipeline) · [COVID Vaccination Forecasting](https://github.com/Milad-Shabani/covid-vaccination-demand-forecasting) · [Power BI Daily Sales](https://github.com/Milad-Shabani/Powerbi-analytics-online-market)
 
 ## 🧰 Tech stack
 
@@ -111,7 +118,7 @@ Also here: [Pharmapulse](https://github.com/Milad-Shabani/Pharmapulse-supply-cha
 <img src="https://img.shields.io/badge/T--SQL-CC2927?style=flat-square" alt="T-SQL">
 <img src="https://img.shields.io/badge/SSIS-CC2927?style=flat-square" alt="SSIS">
 <img src="https://img.shields.io/badge/SSAS%20Tabular-CC2927?style=flat-square" alt="SSAS">
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker">
+<img src="https://img.shields.io/badge/Parquet-50ABF1?style=flat-square&logo=apacheparquet&logoColor=white" alt="Parquet">
 </td>
 </tr>
 <tr>
@@ -119,7 +126,6 @@ Also here: [Pharmapulse](https://github.com/Milad-Shabani/Pharmapulse-supply-cha
 <td>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
 <img src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="pandas">
-<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy">
 <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" alt="scikit-learn">
 <img src="https://img.shields.io/badge/LightGBM%20%7C%20XGBoost-2E8B57?style=flat-square" alt="LightGBM and XGBoost">
 <img src="https://img.shields.io/badge/statsmodels-8B0000?style=flat-square" alt="statsmodels">
@@ -128,14 +134,12 @@ Also here: [Pharmapulse](https://github.com/Milad-Shabani/Pharmapulse-supply-cha
 </td>
 </tr>
 <tr>
-<td><b>Dashboards &amp; web</b></td>
+<td><b>Dashboards &amp; delivery</b></td>
 <td>
-<img src="https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white" alt="Plotly">
 <img src="https://img.shields.io/badge/Chart.js-FF6384?style=flat-square&logo=chartdotjs&logoColor=white" alt="Chart.js">
+<img src="https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white" alt="Plotly">
 <img src="https://img.shields.io/badge/D3-F9A03C?style=flat-square&logo=d3dotjs&logoColor=white" alt="D3">
-<img src="https://img.shields.io/badge/HTML%20%7C%20CSS%20%7C%20JS-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML, CSS, JavaScript">
 <img src="https://img.shields.io/badge/openpyxl-217346?style=flat-square&logo=microsoftexcel&logoColor=white" alt="openpyxl">
-<img src="https://img.shields.io/badge/GitHub%20Pages-222222?style=flat-square&logo=githubpages&logoColor=white" alt="GitHub Pages">
 <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions">
 <img src="https://img.shields.io/badge/pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white" alt="pytest">
 </td>
@@ -155,7 +159,7 @@ Also here: [Pharmapulse](https://github.com/Milad-Shabani/Pharmapulse-supply-cha
 ## 📚 Research & writing
 
 - M.Sc. thesis: a sustainable EV battery supply chain under uncertainty, with a data-mining approach to scenario generation
-- Manuscript in preparation: stochastic programming for a circular-economy battery closed-loop supply chain, solved in GAMS/CPLEX
+- B.Sc. project: a review of data-mining methods for breast cancer prediction
 - [Persian question bank for data interviews](https://miladshabani.ir/data-interview/), plus teaching and Power BI training for teams
 
 ## 📊 Activity
@@ -170,7 +174,8 @@ Also here: [Pharmapulse](https://github.com/Milad-Shabani/Pharmapulse-supply-cha
 
 ## 🤝 Let's work together
 
-Open to collaboration: BI and analytics engineering roles, freelance warehouse and dashboard builds, and Power BI training for teams.
+Open to collaboration: BI and analytics engineering roles, freelance warehouse and dashboard builds,
+and Power BI training for teams.
 
 <a href="mailto:milad.shabani6515@gmail.com"><img src="https://img.shields.io/badge/Email-0E1A2B?style=flat-square&logo=gmail&logoColor=E3A64B" alt="Email"></a>
 <a href="https://www.linkedin.com/in/milad-shabani97/"><img src="https://img.shields.io/badge/LinkedIn-0E1A2B?style=flat-square&logo=linkedin&logoColor=E3A64B" alt="LinkedIn"></a>
