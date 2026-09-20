@@ -25,7 +25,7 @@ Iran, and open to remote work and relocation.
 **Currently**
 
 - Freelance BI engineer: ETL, warehouse design, Power BI dashboards, KPI frameworks
-- Publishing open analytics projects across finance, banking, retail, pharma, energy and public data
+- Publishing open analytics projects across finance, banking, marketplace, manufacturing, pharma and public data
 - Writing [a Persian question bank for data interviews](https://miladshabani.ir/data-interview/), free and growing
 
 ## 🏗️ Selected experience
@@ -39,64 +39,73 @@ Iran, and open to remote work and relocation.
 
 ## 📂 Featured projects
 
+Sixteen open-source projects, each with its own live dashboard. Six worth opening first:
+
 <table>
 <tr>
 <td width="50%" valign="top">
 
-**[Delivery Marketplace: Growth or Profit?](https://github.com/Milad-Shabani/delivery-marketplace-analytics-engine)**
+**[Delivery Marketplace: Growth or Profit?](https://github.com/Milad-Shabani/delivery-marketplace-analytics-engine)** · [live](https://milad-shabani.github.io/Delivery-marketplace-analytics-engine/)
 
-Orders growing 65% a year on a contribution margin under 7%. Per-city P&L, cohorts, a 12-month
-forecast and a constrained reallocation of the promotion budget.
+Orders growing 65% a year on a contribution margin under 7%. Per-city P&L, cohorts, a rolling-origin forecast at 12–14% WAPE, and a constrained reallocation of the promotion budget.
 
 </td>
 <td width="50%" valign="top">
 
-**[People Analytics: Who Is About to Resign?](https://github.com/Milad-Shabani/hr-analytics-dashboard)**
+**[People Analytics: Who Is About to Resign?](https://github.com/Milad-Shabani/hr-analytics-dashboard)** · [live](https://milad-shabani.github.io/HR-Analytics-dashboard/)
 
-An attrition-risk score with published weights, a live-formula Excel workbook as the source of
-truth, and a 12-month hiring plan per department.
+An attrition-risk score with published weights across 740 employees, a live-formula Excel workbook as the source of truth, and a 12-month hiring plan per department.
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-**[Finance & FP&A: Which Budget Line Is Slipping?](https://github.com/Milad-Shabani/finance-analytics-dashboard)**
+**[Finance & FP&A: Which Budget Line Is Slipping?](https://github.com/Milad-Shabani/finance-analytics-dashboard)** · [live](https://milad-shabani.github.io/Finance-analytics-dashboard/)
 
-A fully tied three-statement model that balances to the penny, a 12-month revenue, EBITDA and
-cash-flow forecast, and an explainable budget-overrun risk model.
+A fully tied three-statement model that balances to the penny, a 12-month revenue, EBITDA and cash-flow forecast, and an explainable budget-overrun risk model.
 
 </td>
 <td width="50%" valign="top">
 
-**[Retail Banking: Which Transaction Is Suspicious?](https://github.com/Milad-Shabani/retail-banking-analytics)**
+**[Retail Banking: Which Transaction Is Suspicious?](https://github.com/Milad-Shabani/retail-banking-analytics)** · [live](https://milad-shabani.github.io/Retail-banking-analytics/)
 
-Customer and transaction analytics with a suspicious-transaction model, and a dashboard that puts
-risk, customer behaviour and portfolio health side by side.
+Customer and transaction analytics with a suspicious-transaction model, and a dashboard that puts risk, customer behaviour and portfolio health side by side.
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-**[Global Gold: Who Is Quietly Buying?](https://github.com/Milad-Shabani/global-gold-market-pulse-2026)**
+**[Global Gold: Who Is Quietly Buying?](https://github.com/Milad-Shabani/global-gold-market-pulse-2026)** · [live](https://milad-shabani.github.io/Global-Gold-market-pulse-2026/)
 
-Real World Gold Council and IMF data on official reserves, production and demand — 26 years of
-reserve history, reconciled across sources with different methodologies.
+Real World Gold Council and IMF data on reserves, production and demand. Twenty-six years of history reconciled across sources that use different methodologies.
 
 </td>
 <td width="50%" valign="top">
 
-**[Unemployment Halved. Employment Didn't.](https://github.com/Milad-Shabani/iran-population-labour-dashboard)** · [live](https://milad-shabani.github.io/iran-population-labour-dashboard/)
+**[Unemployment Halved. Employment Didn't.](https://github.com/Milad-Shabani/iran-population-labour-dashboard)** · [live](https://milad-shabani.github.io/Iran-population-labour-dashboard/)
 
-Official unemployment fell from 12.4% to 7.5% while participation dropped 2.6 points. A bilingual
-data story with a model whose assumptions you can change.
+Official unemployment fell from 12.4% to 7.5% while participation dropped 2.6 points. A bilingual data story with a model whose assumptions you can change.
 
 </td>
 </tr>
 </table>
 
-Also here: [Supermarket Marketplace](https://github.com/Milad-Shabani/marketco-marketplace-intelligence) (780K rows, LightGBM quantile forecasting, RFM churn) · [Battery Plant S&OP](https://github.com/Milad-Shabani/battery-crm-sop-planning-engine) (CRM pipeline into the forecast, capacity as an LP, MRP) · [Pharma Supply Chain](https://github.com/Milad-Shabani/Pharmapulse-supply-chain-intelligence) (ABC/XYZ, quantile reorder points, cash conversion cycle) · [Global EV Market](https://github.com/Milad-Shabani/Global-EV-market-pulse) · [Food Manufacturing S&OP](https://github.com/Milad-Shabani/Food-manufacturing-sop-planning-engine) · [Resource & Capacity Planning](https://github.com/Milad-Shabani/Resource-planning-capacity-forecasting) · [User Analytics Pipeline](https://github.com/Milad-Shabani/User-analytics-data-pipeline) · [COVID Vaccination Forecasting](https://github.com/Milad-Shabani/covid-vaccination-demand-forecasting) · [Power BI Daily Sales](https://github.com/Milad-Shabani/Powerbi-analytics-online-market)
+### Everything else
+
+| Project | What it does | |
+| --- | --- | --- |
+| [Supermarket Marketplace Intelligence](https://github.com/Milad-Shabani/marketco-marketplace-intelligence) | 780K rows of sales and CRM data, LightGBM quantile forecasting, RFM churn model | [live](https://milad-shabani.github.io/Marketco-marketplace-intelligence/) |
+| [Battery Plant CRM + S&OP](https://github.com/Milad-Shabani/battery-crm-sop-planning-engine) | CRM pipeline into the forecast, capacity as a linear program, MRP through a real BOM | [live](https://milad-shabani.github.io/Battery-crm-sop-planning-engine/) |
+| [Operations Analytics](https://github.com/Milad-Shabani/Operations-analytics-dashboard) | Throughput, service level and capacity across units | [live](https://milad-shabani.github.io/Operations-analytics-dashboard/) |
+| [PharmaPulse Supply Chain](https://github.com/Milad-Shabani/Pharmapulse-supply-chain-intelligence) | ABC/XYZ segmentation, quantile reorder points, working capital | [live](https://milad-shabani.github.io/Pharmapulse-supply-chain-intelligence/) |
+| [Resource & Capacity Planning](https://github.com/Milad-Shabani/Resource-planning-capacity-forecasting) | A sales forecast turned into a day-by-day, DC-by-DC staffing plan | [live](https://milad-shabani.github.io/Resource-planning-capacity-forecasting/) |
+| [Food Manufacturing S&OP](https://github.com/Milad-Shabani/Food-manufacturing-sop-planning-engine) | Holt-Winters demand, capacity-constrained LP, MRP for a five-line plant | [live](https://milad-shabani.github.io/Food-manufacturing-sop-planning-engine/) |
+| [Global EV Market Pulse](https://github.com/Milad-Shabani/Global-EV-market-pulse) | EV production, trade and batteries to 2035, on the IEA outlook | [live](https://milad-shabani.github.io/Global-EV-market-pulse/) |
+| [COVID Vaccination Forecasting](https://github.com/Milad-Shabani/Covid-vaccination-demand-forecasting) | SARIMA against XGBoost across six centres, with honest backtesting | [live](https://milad-shabani.github.io/Covid-vaccination-demand-forecasting/) |
+| [Power BI Daily Sales](https://github.com/Milad-Shabani/Powerbi-analytics-online-market) | Dashboards shipped with the PBIX files, so the model and DAX are readable |  |
+| [User Analytics Pipeline](https://github.com/Milad-Shabani/User-analytics-data-pipeline) | Incremental event loads into a warehouse and a partitioned Parquet table |  |
 
 ## 🧰 Tech stack
 
