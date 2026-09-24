@@ -24,7 +24,7 @@ Iran, and open to remote work and relocation.
 **Currently**
 
 - Freelance BI engineer: ETL, warehouse design, Power BI dashboards, KPI frameworks
-- Publishing open analytics projects across finance, banking, marketplace, manufacturing, pharma and public data
+- Publishing open analytics projects across steel trading, finance, banking, marketplace, manufacturing, pharma and public data
 - Writing [a Persian question bank for data interviews](https://miladshabani.ir/data-interview/), free and growing
 
 ## 🏗️ Selected experience
@@ -44,9 +44,9 @@ Seventeen open-source projects, fifteen with a live dashboard, ordered by depth 
 <tr>
 <td width="50%" valign="top">
 
-**[Steel Trading: Do Fast Quotes Win the Deal?](https://github.com/Milad-Shabani/Steel-sales-crm-intelligence)** · [live](https://milad-shabani.github.io/Steel-sales-crm-intelligence/)
+**[Steel Trading: Where Do Deals and Days Leak?](https://github.com/Milad-Shabani/Steel-sales-crm-intelligence)** · [live](https://milad-shabani.github.io/Steel-sales-crm-intelligence/)
 
-A Microsoft Dynamics 365 export from an iron and steel trader, read table by table: 128K tons sold. Quotes sent within 4 hours win 74% of deals, against 37% after three days. A win-probability model (AUC 0.67, against 0.53 for the reps' own CRM probabilities) re-weights the open pipeline, and a Lead → Opportunity → Quote → Order → Invoice funnel shows where deals drop out and why.
+A Microsoft Dynamics 365 export (Sales, Customer Service, shipments) from an iron and steel trader: 128K tons sold. Quotes sent within 4 hours win 74% of deals, against 37% after three days, and a win-probability model beats the reps' own CRM probabilities (AUC 0.67 vs 0.53). Lead to order, delivery, collections and support are modelled in BPMN 2.0 with measured numbers on every step: only 72% of orders arrive on time and in full, because loads wait 2.4 days in the yard for a truck.
 
 </td>
 <td width="50%" valign="top">
@@ -152,6 +152,7 @@ Lumpy B2B orders leave Holt-Winters at 48% WAPE, so the probability-weighted CRM
 <img src="https://img.shields.io/badge/Chart.js-FF6384?style=flat-square&logo=chartdotjs&logoColor=white" alt="Chart.js">
 <img src="https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white" alt="Plotly">
 <img src="https://img.shields.io/badge/D3-F9A03C?style=flat-square&logo=d3dotjs&logoColor=white" alt="D3">
+<img src="https://img.shields.io/badge/bpmn--js-1A1A1A?style=flat-square" alt="bpmn-js">
 <img src="https://img.shields.io/badge/openpyxl-217346?style=flat-square&logo=microsoftexcel&logoColor=white" alt="openpyxl">
 <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions">
 <img src="https://img.shields.io/badge/pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white" alt="pytest">
