@@ -1,14 +1,12 @@
 <div align="center">
 
-<img src="banner.png" alt="Milad Shabani - Business Intelligence Engineer" width="100%">
+<img src="profile/banner.png" alt="Milad Shabani - Business Intelligence Engineer" width="100%">
 
 <a href="https://www.linkedin.com/in/milad-shabani97/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="https://www.instagram.com/milad.shabani97/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
 <a href="mailto:milad.shabani6515@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
 <a href="https://miladshabani.ir"><img src="https://img.shields.io/badge/miladshabani.ir-0E1A2B?style=flat-square&logo=googlechrome&logoColor=E3A64B" alt="Website"></a>
 <a href="https://miladshabani.ir/data-interview/"><img src="https://img.shields.io/badge/Data%20interview%20Q%26A-E3A64B?style=flat-square&logo=readthedocs&logoColor=white" alt="Data interview question bank"></a>
-<a href="https://github.com/Milad-Shabani?tab=followers"><img src="https://img.shields.io/github/followers/Milad-Shabani?style=flat-square&color=0E1A2B&labelColor=0E1A2B&logo=github&logoColor=white" alt="Followers"></a>
-<img src="https://komarev.com/ghpvc/?username=Milad-Shabani&label=Views&color=0E1A2B&style=flat-square" alt="Profile views">
 
 </div>
 
@@ -94,7 +92,7 @@ Official unemployment fell from 12.4% to 7.5% while participation dropped 2.6 po
 
 ### Everything else
 
-| Project | What it does | |
+| Project | What it does | Demo |
 | --- | --- | --- |
 | [Supermarket Marketplace Intelligence](https://github.com/Milad-Shabani/marketco-marketplace-intelligence) | 780K rows of sales and CRM data, LightGBM quantile forecasting, RFM churn model | [live](https://milad-shabani.github.io/Marketco-marketplace-intelligence/) |
 | [Battery Plant CRM + S&OP](https://github.com/Milad-Shabani/battery-crm-sop-planning-engine) | CRM pipeline into the forecast, capacity as a linear program, MRP through a real BOM | [live](https://milad-shabani.github.io/Battery-crm-sop-planning-engine/) |
@@ -104,8 +102,8 @@ Official unemployment fell from 12.4% to 7.5% while participation dropped 2.6 po
 | [Food Manufacturing S&OP](https://github.com/Milad-Shabani/Food-manufacturing-sop-planning-engine) | Holt-Winters demand, capacity-constrained LP, MRP for a five-line plant | [live](https://milad-shabani.github.io/Food-manufacturing-sop-planning-engine/) |
 | [Global EV Market Pulse](https://github.com/Milad-Shabani/Global-EV-market-pulse) | EV production, trade and batteries to 2035, on the IEA outlook | [live](https://milad-shabani.github.io/Global-EV-market-pulse/) |
 | [COVID Vaccination Forecasting](https://github.com/Milad-Shabani/Covid-vaccination-demand-forecasting) | SARIMA against XGBoost across six centres, with honest backtesting | [live](https://milad-shabani.github.io/Covid-vaccination-demand-forecasting/) |
-| [Power BI Daily Sales](https://github.com/Milad-Shabani/Powerbi-analytics-online-market) | Dashboards shipped with the PBIX files, so the model and DAX are readable |  |
-| [User Analytics Pipeline](https://github.com/Milad-Shabani/User-analytics-data-pipeline) | Incremental event loads into a warehouse and a partitioned Parquet table |  |
+| [Power BI Daily Sales](https://github.com/Milad-Shabani/Powerbi-analytics-online-market) | Dashboards shipped with the PBIX files, so the model and DAX are readable | PBIX files |
+| [User Analytics Pipeline](https://github.com/Milad-Shabani/User-analytics-data-pipeline) | Incremental event loads into a warehouse and a partitioned Parquet table | code only |
 
 ## 🧰 Tech stack
 
@@ -118,6 +116,8 @@ Official unemployment fell from 12.4% to 7.5% while participation dropped 2.6 po
 <img src="https://img.shields.io/badge/Power%20Query-F2C811?style=flat-square&logoColor=000000" alt="Power Query">
 <img src="https://img.shields.io/badge/SSRS-B7472A?style=flat-square" alt="SSRS">
 <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white" alt="Excel">
+<img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white" alt="Tableau">
+<img src="https://img.shields.io/badge/QlikView-009848?style=flat-square&logo=qlik&logoColor=white" alt="QlikView">
 </td>
 </tr>
 <tr>
@@ -135,6 +135,8 @@ Official unemployment fell from 12.4% to 7.5% while participation dropped 2.6 po
 <td>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
 <img src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="pandas">
+<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy">
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square" alt="Matplotlib">
 <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" alt="scikit-learn">
 <img src="https://img.shields.io/badge/LightGBM%20%7C%20XGBoost-2E8B57?style=flat-square" alt="LightGBM and XGBoost">
 <img src="https://img.shields.io/badge/statsmodels-8B0000?style=flat-square" alt="statsmodels">
@@ -160,6 +162,7 @@ Official unemployment fell from 12.4% to 7.5% while participation dropped 2.6 po
 <img src="https://img.shields.io/badge/Power%20Platform-742774?style=flat-square&logo=powerautomate&logoColor=white" alt="Power Platform">
 <img src="https://img.shields.io/badge/BPMN%20%7C%20UML-5C2D91?style=flat-square" alt="BPMN and UML">
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git">
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker">
 <img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white" alt="Jira">
 </td>
 </tr>
@@ -175,9 +178,15 @@ Official unemployment fell from 12.4% to 7.5% while participation dropped 2.6 po
 
 <div align="center">
 
-<img src="./profile/streak.svg" height="170" alt="Contribution streak">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Milad-Shabani/Milad-Shabani/output/streak-dark.svg">
+  <img src="https://raw.githubusercontent.com/Milad-Shabani/Milad-Shabani/output/streak.svg" height="170" alt="Contribution streak">
+</picture>
 
-<img src="https://raw.githubusercontent.com/Milad-Shabani/Milad-Shabani/output/snake.svg?v=2" width="98%" alt="Contribution graph">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Milad-Shabani/Milad-Shabani/output/snake-dark.svg">
+  <img src="https://raw.githubusercontent.com/Milad-Shabani/Milad-Shabani/output/snake.svg" width="98%" alt="Contribution graph">
+</picture>
 
 </div>
 
@@ -189,7 +198,5 @@ and Power BI training for teams.
 <a href="mailto:milad.shabani6515@gmail.com"><img src="https://img.shields.io/badge/Email-0E1A2B?style=flat-square&logo=gmail&logoColor=E3A64B" alt="Email"></a>
 <a href="https://www.linkedin.com/in/milad-shabani97/"><img src="https://img.shields.io/badge/LinkedIn-0E1A2B?style=flat-square&logo=linkedin&logoColor=E3A64B" alt="LinkedIn"></a>
 <a href="https://miladshabani.ir"><img src="https://img.shields.io/badge/Website-0E1A2B?style=flat-square&logo=googlechrome&logoColor=E3A64B" alt="Website"></a>
-<a href="https://miladshabani.ir/data-interview/"><img src="https://img.shields.io/badge/Data%20interview%20questions-0E1A2B?style=flat-square&logo=readthedocs&logoColor=E3A64B" alt="Data interview question bank"></a>
-<a href="https://www.instagram.com/milad.shabani97/"><img src="https://img.shields.io/badge/Instagram-0E1A2B?style=flat-square&logo=instagram&logoColor=E3A64B" alt="Instagram"></a>
 
 <div align="center"><sub>I work in Persian and English.</sub></div>
