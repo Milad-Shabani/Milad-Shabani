@@ -179,13 +179,13 @@ Official unemployment fell from 12.4% to 7.5% while participation dropped 2.6 po
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Milad-Shabani/Milad-Shabani/output/streak-dark.svg">
-  <img src="https://raw.githubusercontent.com/Milad-Shabani/Milad-Shabani/output/streak.svg" height="170" alt="Contribution streak">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Milad-Shabani/Milad-Shabani/output/streak-dark.svg?v=3">
+  <img src="https://raw.githubusercontent.com/Milad-Shabani/Milad-Shabani/output/streak.svg?v=3" height="170" alt="Contribution streak">
 </picture>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Milad-Shabani/Milad-Shabani/output/snake-dark.svg">
-  <img src="https://raw.githubusercontent.com/Milad-Shabani/Milad-Shabani/output/snake.svg" width="98%" alt="Contribution graph">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Milad-Shabani/Milad-Shabani/output/snake-dark.svg?v=3">
+  <img src="https://raw.githubusercontent.com/Milad-Shabani/Milad-Shabani/output/snake.svg?v=3" width="98%" alt="Contribution graph">
 </picture>
 
 </div>
