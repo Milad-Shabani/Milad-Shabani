@@ -38,10 +38,17 @@ Iran, and open to remote work and relocation.
 
 ## 📂 Featured projects
 
-Sixteen open-source projects, fourteen with a live dashboard, ordered by depth and quality. Start with these six:
+Seventeen open-source projects, fifteen with a live dashboard, ordered by depth and quality. Start with these six:
 
 <table>
 <tr>
+<td width="50%" valign="top">
+
+**[Steel Trading: Do Fast Quotes Win the Deal?](https://github.com/Milad-Shabani/Steel-sales-crm-intelligence)** · [live](https://milad-shabani.github.io/Steel-sales-crm-intelligence/)
+
+A Microsoft Dynamics 365 export from an iron and steel trader, read table by table: 128K tons sold. Quotes sent within 4 hours win 74% of deals, against 37% after three days. A win-probability model (AUC 0.67, against 0.53 for the reps' own CRM probabilities) re-weights the open pipeline, and a Lead → Opportunity → Quote → Order → Invoice funnel shows where deals drop out and why.
+
+</td>
 <td width="50%" valign="top">
 
 **[Pharma Supply Chain: Why Is the Fill Rate Slipping?](https://github.com/Milad-Shabani/Pharmapulse-supply-chain-intelligence)** · [live](https://milad-shabani.github.io/Pharmapulse-supply-chain-intelligence/)
@@ -49,6 +56,8 @@ Sixteen open-source projects, fourteen with a live dashboard, ordered by depth a
 Fill rate fell from 84.5% to 81.0% while revenue grew. One global LightGBM quantile model forecasts 588 SKU-centre series at 3.2% WAPE and sets the reorder points, with ABC/XYZ segmentation and a cash-conversion-cycle model on top.
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 **[Supermarket Marketplace: Can Ops Survive a Mega-Sale?](https://github.com/Milad-Shabani/marketco-marketplace-intelligence)** · [live](https://milad-shabani.github.io/Marketco-marketplace-intelligence/)
@@ -56,8 +65,6 @@ Fill rate fell from 84.5% to 81.0% while revenue grew. One global LightGBM quant
 578K orders across 5 fulfilment centres and 260 sellers, with mega-sales at 3–7x normal volume. A quantile forecast at 9.3% WAPE plans capacity around the events, and a churn model (AUC 0.78) tells the CRM team whom to win back.
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 **[Retail Banking: Which Transaction Is Suspicious?](https://github.com/Milad-Shabani/retail-banking-analytics)** · [live](https://milad-shabani.github.io/Retail-banking-analytics/)
@@ -65,6 +72,8 @@ Fill rate fell from 84.5% to 81.0% while revenue grew. One global LightGBM quant
 Customer and transaction analytics with a suspicious-transaction model, and a dashboard that puts risk, customer behaviour and portfolio health side by side.
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 **[COVID Vaccination: Which Forecast Holds 45 Days Out?](https://github.com/Milad-Shabani/Covid-vaccination-demand-forecasting)** · [live](https://milad-shabani.github.io/Covid-vaccination-demand-forecasting/)
@@ -72,20 +81,11 @@ Customer and transaction analytics with a suspicious-transaction model, and a da
 Rebuilt from my work at Malard Health Network: five centres, 500 to 3,500 doses a day. XGBoost matches SARIMA one step ahead, then collapses over 45 days without fresh actuals while SARIMA stays usable. The repo shows why.
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 **[Battery Plant: Can the CRM Pipeline Fix the Forecast?](https://github.com/Milad-Shabani/battery-crm-sop-planning-engine)** · [live](https://milad-shabani.github.io/Battery-crm-sop-planning-engine/)
 
 Lumpy B2B orders leave Holt-Winters at 48% WAPE, so the probability-weighted CRM pipeline is blended in. Capacity is a linear program feeding MRP through a real BOM, and in the winter crunch it serves the higher-priced lines first.
-
-</td>
-<td width="50%" valign="top">
-
-**[Unemployment Halved. Employment Didn't.](https://github.com/Milad-Shabani/iran-population-labour-dashboard)** · [live](https://milad-shabani.github.io/Iran-population-labour-dashboard/)
-
-Official unemployment fell from 12.4% to 7.5% while participation dropped 2.6 points. A bilingual data story with a model whose assumptions you can change.
 
 </td>
 </tr>
@@ -95,6 +95,7 @@ Official unemployment fell from 12.4% to 7.5% while participation dropped 2.6 po
 
 | Project | What it does | Demo |
 | --- | --- | --- |
+| [Unemployment Halved. Employment Didn't.](https://github.com/Milad-Shabani/iran-population-labour-dashboard) | Official unemployment fell from 12.4% to 7.5% while participation dropped 2.6 points: a bilingual data story with a model whose assumptions you can change | [live](https://milad-shabani.github.io/Iran-population-labour-dashboard/) |
 | [Delivery Marketplace: Growth or Profit?](https://github.com/Milad-Shabani/delivery-marketplace-analytics-engine) | Orders up 65% a year on a contribution margin under 7%: city P&L, cohorts, a 12–14% WAPE forecast and a reallocated promo budget | [live](https://milad-shabani.github.io/Delivery-marketplace-analytics-engine/) |
 | [Food Manufacturing S&OP](https://github.com/Milad-Shabani/Food-manufacturing-sop-planning-engine) | Holt-Winters demand, capacity-constrained LP, MRP for a five-line plant | [live](https://milad-shabani.github.io/Food-manufacturing-sop-planning-engine/) |
 | [Global Gold Market Pulse](https://github.com/Milad-Shabani/global-gold-market-pulse-2026) | Real World Gold Council and IMF data: 26 years of reserves, production and demand, reconciled across sources | [live](https://milad-shabani.github.io/Global-Gold-market-pulse-2026/) |
