@@ -6,6 +6,7 @@
 <a href="https://www.instagram.com/milad.shabani97/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
 <a href="mailto:milad.shabani6515@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
 <a href="https://miladshabani.ir"><img src="https://img.shields.io/badge/miladshabani.ir-0E1A2B?style=flat-square&logo=googlechrome&logoColor=E3A64B" alt="Website"></a>
+<a href="https://github.com/Milad-Shabani/Resume"><img src="https://img.shields.io/badge/Resume-E3A64B?style=flat-square&logo=readdotcv&logoColor=white" alt="Resume"></a>
 <a href="https://miladshabani.ir/data-interview/"><img src="https://img.shields.io/badge/Data%20interview%20Q%26A-E3A64B?style=flat-square&logo=readthedocs&logoColor=white" alt="Data interview question bank"></a>
 
 </div>
@@ -198,5 +199,6 @@ and Power BI training for teams.
 <a href="mailto:milad.shabani6515@gmail.com"><img src="https://img.shields.io/badge/Email-0E1A2B?style=flat-square&logo=gmail&logoColor=E3A64B" alt="Email"></a>
 <a href="https://www.linkedin.com/in/milad-shabani97/"><img src="https://img.shields.io/badge/LinkedIn-0E1A2B?style=flat-square&logo=linkedin&logoColor=E3A64B" alt="LinkedIn"></a>
 <a href="https://miladshabani.ir"><img src="https://img.shields.io/badge/Website-0E1A2B?style=flat-square&logo=googlechrome&logoColor=E3A64B" alt="Website"></a>
+<a href="https://github.com/Milad-Shabani/Resume"><img src="https://img.shields.io/badge/Resume-0E1A2B?style=flat-square&logo=readdotcv&logoColor=E3A64B" alt="Resume"></a>
 
 <div align="center"><sub>I work in Persian and English.</sub></div>
