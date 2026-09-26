@@ -38,20 +38,9 @@ Iran, and open to remote work and relocation.
 
 ## 📂 Featured projects
 
-Eighteen open-source projects, sixteen with a live dashboard, ordered by depth and quality. Start with these seven:
+Eighteen open-source projects, sixteen with a live dashboard, ordered by depth and quality. Start with these six:
 
 <table>
-<tr>
-<td colspan="2" valign="top">
-
-**[Iran Housing: Where Does a Square Metre Cost What?](https://github.com/Milad-Shabani/Iran-housing-market-analytics)** · [live](https://milad-shabani.github.io/Iran-housing-market-analytics/) · [فارسی](https://milad-shabani.github.io/Iran-housing-market-analytics/index.fa.html)
-
-<a href="https://milad-shabani.github.io/Iran-housing-market-analytics/"><img src="https://raw.githubusercontent.com/Milad-Shabani/Iran-housing-market-analytics/main/docs/assets/preview_en.png" alt="Dashboard: District 3 selected; KPIs, map and neighbourhood ranges follow the selection" width="100%"></a>
-
-516,947 real Divar listings and the Central Bank of Iran's monthly transaction prices on hand-built maps of Tehran's 22 districts and Iran's 31 provinces. District 1 asks 4× District 17, and the cheaper a district was, the faster it rose (correlation −0.71). A hedonic pricing model (R² 0.88) runs in the browser, and a 35-origin backtest shows why extrapolating last year is the worst forecast: 39% error at one year, against 21% for the long-run growth rate.
-
-</td>
-</tr>
 <tr>
 <td width="50%" valign="top">
 
@@ -62,9 +51,9 @@ A Microsoft Dynamics 365 export (Sales, Customer Service, shipments) from an iro
 </td>
 <td width="50%" valign="top">
 
-**[Pharma Supply Chain: Why Is the Fill Rate Slipping?](https://github.com/Milad-Shabani/Pharmapulse-supply-chain-intelligence)** · [live](https://milad-shabani.github.io/Pharmapulse-supply-chain-intelligence/)
+**[Iran Housing: Where Does a Square Metre Cost What?](https://github.com/Milad-Shabani/Iran-housing-market-analytics)** · [live](https://milad-shabani.github.io/Iran-housing-market-analytics/) · [فارسی](https://milad-shabani.github.io/Iran-housing-market-analytics/index.fa.html)
 
-Fill rate fell from 84.5% to 81.0% while revenue grew. One global LightGBM quantile model forecasts 588 SKU-centre series at 3.2% WAPE and sets the reorder points, with ABC/XYZ segmentation and a cash-conversion-cycle model on top.
+516,947 real Divar listings and the Central Bank's transaction prices on hand-built maps of Tehran's 22 districts and Iran's 31 provinces. District 1 asks 4× District 17 per square metre, and the cheaper districts rose fastest. Set a budget to light up the neighbourhoods that fit, price a home with an in-browser model (R² 0.88), and test a 12-month forecast chosen by 35 historical backtests.
 
 </td>
 </tr>
@@ -106,6 +95,7 @@ Lumpy B2B orders leave Holt-Winters at 48% WAPE, so the probability-weighted CRM
 
 | Project | What it does | Demo |
 | --- | --- | --- |
+| [Pharma Supply Chain: Why Is the Fill Rate Slipping?](https://github.com/Milad-Shabani/Pharmapulse-supply-chain-intelligence) | Fill rate fell from 84.5% to 81.0% while revenue grew: one LightGBM quantile model forecasts 588 SKU-centre series at 3.2% WAPE and sets the reorder points | [live](https://milad-shabani.github.io/Pharmapulse-supply-chain-intelligence/) |
 | [Unemployment Halved. Employment Didn't.](https://github.com/Milad-Shabani/iran-population-labour-dashboard) | Official unemployment fell from 12.4% to 7.5% while participation dropped 2.6 points: a bilingual data story with a model whose assumptions you can change | [live](https://milad-shabani.github.io/Iran-population-labour-dashboard/) |
 | [Delivery Marketplace: Growth or Profit?](https://github.com/Milad-Shabani/delivery-marketplace-analytics-engine) | Orders up 65% a year on a contribution margin under 7%: city P&L, cohorts, a 12–14% WAPE forecast and a reallocated promo budget | [live](https://milad-shabani.github.io/Delivery-marketplace-analytics-engine/) |
 | [Food Manufacturing S&OP](https://github.com/Milad-Shabani/Food-manufacturing-sop-planning-engine) | Holt-Winters demand, capacity-constrained LP, MRP for a five-line plant | [live](https://milad-shabani.github.io/Food-manufacturing-sop-planning-engine/) |
