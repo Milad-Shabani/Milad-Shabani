@@ -24,7 +24,7 @@ Iran, and open to remote work and relocation.
 **Currently**
 
 - Freelance BI engineer: ETL, warehouse design, Power BI dashboards, KPI frameworks
-- Publishing open analytics projects across steel trading, finance, banking, marketplace, manufacturing, pharma and public data
+- Publishing open analytics projects across steel trading, housing, finance, banking, marketplace, manufacturing, pharma and public data
 - Writing [a Persian question bank for data interviews](https://miladshabani.ir/data-interview/), free and growing
 
 ## 🏗️ Selected experience
@@ -38,9 +38,20 @@ Iran, and open to remote work and relocation.
 
 ## 📂 Featured projects
 
-Seventeen open-source projects, fifteen with a live dashboard, ordered by depth and quality. Start with these six:
+Eighteen open-source projects, sixteen with a live dashboard, ordered by depth and quality. Start with these seven:
 
 <table>
+<tr>
+<td colspan="2" valign="top">
+
+**[Iran Housing: Where Does a Square Metre Cost What?](https://github.com/Milad-Shabani/Iran-housing-market-analytics)** · [live](https://milad-shabani.github.io/Iran-housing-market-analytics/) · [فارسی](https://milad-shabani.github.io/Iran-housing-market-analytics/index.fa.html)
+
+<a href="https://milad-shabani.github.io/Iran-housing-market-analytics/"><img src="https://raw.githubusercontent.com/Milad-Shabani/Iran-housing-market-analytics/main/docs/assets/preview_en.png" alt="Dashboard: District 3 selected; KPIs, map and neighbourhood ranges follow the selection" width="100%"></a>
+
+516,947 real Divar listings and the Central Bank of Iran's monthly transaction prices on hand-built maps of Tehran's 22 districts and Iran's 31 provinces. District 1 asks 4× District 17, and the cheaper a district was, the faster it rose (correlation −0.71). A hedonic pricing model (R² 0.88) runs in the browser, and a 35-origin backtest shows why extrapolating last year is the worst forecast: 39% error at one year, against 21% for the long-run growth rate.
+
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 
