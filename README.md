@@ -76,7 +76,7 @@ Customer and transaction analytics with a suspicious-transaction model, and a da
 <tr>
 <td width="50%" valign="top">
 
-**[COVID Vaccination: Which Forecast Holds 45 Days Out?](https://github.com/Milad-Shabani/Covid-vaccination-demand-forecasting)** · [live](https://milad-shabani.github.io/Covid-vaccination-demand-forecasting/)
+**[COVID Vaccination: Which Forecast Holds 45 Days Out?](https://github.com/Milad-Shabani/Covid-vaccination-demand-forecasting)** · [live](https://milad-shabani.github.io/Covid-vaccination-demand-forecasting/)  · [فارسی](https://milad-shabani.github.io/Covid-vaccination-demand-forecasting/fa/index.html)
 
 Rebuilt from my work at Malard Health Network: five centres, 500 to 3,500 doses a day. XGBoost matches SARIMA one step ahead, then collapses over 45 days without fresh actuals while SARIMA stays usable. The repo shows why.
 
@@ -102,7 +102,7 @@ Lumpy B2B orders leave Holt-Winters at 48% WAPE, so the probability-weighted CRM
 | [Global Gold Market Pulse](https://github.com/Milad-Shabani/global-gold-market-pulse-2026) | Real World Gold Council and IMF data: 26 years of reserves, production and demand, reconciled across sources | [live](https://milad-shabani.github.io/Global-Gold-market-pulse-2026/) |
 | [Finance & FP&A](https://github.com/Milad-Shabani/finance-analytics-dashboard) | A three-statement model that balances to the penny, a 12-month forecast and a budget-overrun risk model | [live](https://milad-shabani.github.io/Finance-analytics-dashboard/) |
 | [People Analytics](https://github.com/Milad-Shabani/hr-analytics-dashboard) | An attrition-risk score with published weights across 740 employees and a 12-month hiring plan | [live](https://milad-shabani.github.io/HR-Analytics-dashboard/) |
-| [Resource & Capacity Planning](https://github.com/Milad-Shabani/Resource-planning-capacity-forecasting) | A sales forecast turned into a day-by-day, DC-by-DC staffing plan | [live](https://milad-shabani.github.io/Resource-planning-capacity-forecasting/) |
+| [Resource & Capacity Planning](https://github.com/Milad-Shabani/Resource-planning-capacity-forecasting) | A sales forecast turned into a day-by-day, DC-by-DC staffing plan | [live](https://milad-shabani.github.io/Resource-planning-capacity-forecasting/) · [فارسی](https://milad-shabani.github.io/Resource-planning-capacity-forecasting/dashboard/fa/)|
 | [Global EV Market Pulse](https://github.com/Milad-Shabani/Global-EV-market-pulse) | EV production, trade and batteries to 2035, on the IEA outlook | [live](https://milad-shabani.github.io/Global-EV-market-pulse/) |
 | [Operations Analytics](https://github.com/Milad-Shabani/Operations-analytics-dashboard) | Throughput, service level and capacity across units | [live](https://milad-shabani.github.io/Operations-analytics-dashboard/) |
 | [User Analytics Pipeline](https://github.com/Milad-Shabani/User-analytics-data-pipeline) | Incremental event loads into a warehouse and a partitioned Parquet table | code only |
