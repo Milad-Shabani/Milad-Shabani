@@ -30,6 +30,7 @@ Iran, and open to remote work and relocation.
 ## 🏗️ Selected experience
 
 <table>
+<tr><td><b>SnappFood</b></td><td>Senior Business Analyst</td></tr>
 <tr><td><b>Asiatech</b></td><td>Data warehouse serving <b>500M+ records</b>, with the ETL and OLAP layers on top</td></tr>
 <tr><td><b>Samanehaye Modiriat</b></td><td>BI and CRM delivery for <b>MAPNA, Digikala, MCI, Saba Battery</b></td></tr>
 <tr><td><b>EltiamPharm</b></td><td>C#/SSIS pipeline pulling from the APIs of <b>15 pharmaceutical distributors</b> into one warehouse</td></tr>
